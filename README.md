@@ -8,14 +8,13 @@ python3
 
 ## Python3 Code snippets
 
-### Hello, world!
+### Example code: Text
 
-print("Hello, world!")
+print("Hello, world!") # output: Hello, world!
 
-### Add
+### Example code: Numbers
 
-print(1+1)
-
+print(1+1) # output: 2
 -----
 
 ## Links
