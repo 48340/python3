@@ -6,6 +6,18 @@ python3
 
 -----
 
+## Python3 Code snippets
+
+### Hello, world!
+
+print("Hello, world!")
+
+### Add
+
+print(1+1)
+
+-----
+
 ## Links
 
 The official Python web site...  
