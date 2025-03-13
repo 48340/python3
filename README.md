@@ -10,7 +10,7 @@ python3
 
 Code comments are written after the hash (#) symbol... 
 
->> # This is an example Python3 code comment
+>> (#) This is an example Python3 code comment
 
 ### Example code: Text
 
