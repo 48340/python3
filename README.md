@@ -11,6 +11,9 @@ python3
 Code comments are written after the hash (#) symbol... 
 
 >> (#) This is an example Python3 code comment
+>> (#) Code that is written after the # symbol will NOT be executed;
+>> (#) but, instead, is written using plain text...;
+>> (#) so, that other non-programmer people an understand how the program works.
 
 ### Example code: Text
 
