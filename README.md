@@ -10,4 +10,4 @@ python3
 
 The official Python web site...  
 - https://www.python.org  
--(NOTE: You may go to the above site...if you wish to 'test' running any of the Python3 code you do find here.)-
+-(**NOTE**: You may go to the above web site...; if you do wish to 'test' running any of the Python3 code you do find inside of this Python 3 code repository.)-
